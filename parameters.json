@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "MyAppName",
+    "ParameterValue": "EC2Test"
+  },
+  {
+    "ParameterKey": "MyInstanceType",
+    "ParameterValue": "t3.micro"
+  },
+  {
+    "ParameterKey": "MyVolumeSize",
+    "ParameterValue": "20"
+  }
+]
